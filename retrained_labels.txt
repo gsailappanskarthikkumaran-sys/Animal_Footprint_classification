@@ -1,0 +1,13 @@
+bear
+cat
+chicken
+cow
+dog
+duck
+horse
+rabbit
+rat
+squirrel
+bongo
+cheetah
+Not_Found
